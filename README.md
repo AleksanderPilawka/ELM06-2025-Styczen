@@ -8,8 +8,11 @@ Repozytorium zawiera moje autorskie rozwiązanie zadania z egzaminu ELM06 (stycz
 ## Zawartosc Repozytorium
 
 -ELM.06 Styczen 2025 - FBD.pjw
+
 -ELM.06 Styczen 2025 - LADDER.pjw
+
 -ELM.06 Styczen 2025 - Skrypt.pjw
+
 
 ## Zrodlo arkusza egzaminacyjnego
 
